@@ -1,0 +1,226 @@
+{
+  "id": "tpl_untitled_template",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Untitled template",
+    "tags": [],
+    "premium": false,
+    "category": ""
+  },
+  "canvas": {
+    "frameCount": 2,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "paper_map_vintage",
+      "type": "image",
+      "name": "paper_map_vintage.jpg",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/17dc2b05cd5c.webp",
+      "fit": "contain",
+      "x": -454,
+      "y": -2378,
+      "w": 3270,
+      "h": 6114,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_portrait_no_padding",
+      "type": "group",
+      "name": "Frame · Frame_instant_portrait_no_padding.png",
+      "x": 140,
+      "y": 139,
+      "w": 800,
+      "h": 1080,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_portrait_no_padding_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 68.95384615384616,
+          "y": 83.07692307692308,
+          "w": 658.8000000000001,
+          "h": 794.2153846153847,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/afc30b7c7720.webp"
+        },
+        {
+          "id": "frame_frame_instant_portrait_no_padding_png",
+          "type": "image",
+          "name": "Frame_instant_portrait_no_padding.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/1ab452e42ded.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 800,
+          "h": 1080,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_portrait_no_padding_2",
+      "type": "group",
+      "name": "Frame · Frame_instant_portrait_no_padding.png",
+      "x": 1432,
+      "y": 139,
+      "w": 376,
+      "h": 508,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_portrait_no_padding_2_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 32.43604940388759,
+          "y": 39.0795775950453,
+          "w": 309.9010503287092,
+          "h": 373.6007618086331,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/e9fe4083cc9d.webp"
+        },
+        {
+          "id": "frame_frame_instant_portrait_no_padding_2_png",
+          "type": "image",
+          "name": "Frame_instant_portrait_no_padding.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/1ab452e42ded.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 376.32185832265833,
+          "h": 508.0345087355889,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_portrait_no_padding_3",
+      "type": "group",
+      "name": "Frame · Frame_instant_portrait_no_padding.png",
+      "x": 1432,
+      "y": 773,
+      "w": 177,
+      "h": 230,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_portrait_no_padding_3_slot0",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 32.408307692308064,
+          "y": 37.648757729527155,
+          "w": 309.63600000000355,
+          "h": 359.9221238942796,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/e9fe4083cc9d.webp"
+        },
+        {
+          "id": "frame_frame_instant_portrait_no_padding_3_png",
+          "type": "image",
+          "name": "Frame_instant_portrait_no_padding.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/1ab452e42ded.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 376.00000000000426,
+          "h": 489.433850483853,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 1,
+  "updatedAt": "2026-10-02T15:33:45.043Z",
+  "updatedBy": "designer@demo.local",
+  "requires": [
+    "group",
+    "image",
+    "image_slot"
+  ]
+}
