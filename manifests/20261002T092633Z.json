@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-10-02T09:26:33.519Z",
+  "fonts": [
+    {
+      "family": "Caveat",
+      "weight": 600,
+      "style": "normal",
+      "url": "https://sishin.github.io/VEYO-CONTENT/fonts/50982efeacb9.ttf"
+    },
+    {
+      "family": "NotoSerif Condensed",
+      "weight": 600,
+      "style": "normal",
+      "url": "https://sishin.github.io/VEYO-CONTENT/fonts/a65f07503e1b.ttf"
+    }
+  ],
+  "sections": [
+    {
+      "id": "travel",
+      "title": {
+        "en": "Travel",
+        "it": "Viaggi"
+      },
+      "layout": "horizontal_carousel",
+      "rules": {
+        "platforms": [
+          "android",
+          "ios",
+          "web"
+        ],
+        "minAppVersion": "",
+        "locales": [
+          "*"
+        ],
+        "countries": [
+          "*"
+        ],
+        "startAt": null,
+        "endAt": null
+      },
+      "items": [
+        {
+          "templateId": "tpl_travel_polaroid_story",
+          "title": "Travel Polaroid Story",
+          "category": "travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_travel_polaroid_story.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_travel_polaroid_story.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_travel_polaroid_story.v1/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_travel_polaroid_story.v1/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_travel_polaroid_story.v1/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_travel_polaroid_story.v1/frame_4.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_travel_polaroid_story.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_travel_polaroid_story.v1/strip_empty.webp",
+          "frameCount": 4,
+          "numberOfPanels": 4,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "F1E6D3",
+            "F1E6D3"
+          ],
+          "slotCount": 7,
+          "premium": false,
+          "badge": "new",
+          "requires": [
+            "group",
+            "shape",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        }
+      ]
+    }
+  ],
+  "stickerPacks": [
+    {
+      "id": "travel",
+      "title": {
+        "en": "Travel"
+      },
+      "premium": false,
+      "items": [
+        "https://sishin.github.io/VEYO-CONTENT/assets/376662a8dd40.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/3348a46bbeab.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/a7de8e9f7308.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/1417e9d6a92c.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/b50ff7eedb72.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/6877988a4f65.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/f7dc1d1c843f.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/d876ab837aa8.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/ba7576907d14.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/2666d361daf9.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/81e73ed9325c.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/0950865b1848.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/12ca11950251.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/101008800911.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/8a9725588daf.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/5f0ec85edffc.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/91dabbcca1fe.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/07e780002fd7.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/3fdffb0a1a77.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/6fbfd6083862.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/b3d50ff6848f.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/5f425c2c3c9e.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/2c493e0d9e9e.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/532a4b975b47.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/fa5220b8f7cd.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/25da17001353.webp"
+      ]
+    },
+    {
+      "id": "scrapbook",
+      "title": {
+        "en": "Scrapbook"
+      },
+      "premium": false,
+      "items": [
+        "https://sishin.github.io/VEYO-CONTENT/assets/e3cb4fd337ad.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/ea137a1a4dd3.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/dac3304c9d02.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/1d74d27c60d1.webp"
+      ]
+    },
+    {
+      "id": "wedding",
+      "title": {
+        "en": "Wedding"
+      },
+      "premium": true,
+      "items": [
+        "https://sishin.github.io/VEYO-CONTENT/assets/247210843fe4.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/4fa353e569b1.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/ab4d28b14be5.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/24f009252e05.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/f8c9ab0da7da.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/3870e7218d73.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/9521df1745a1.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/d76d4d3e0594.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/f9f1b330cbd4.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/f24dcf5c2231.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/9e89f0ce4364.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/2baa36bb2573.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/b5c846bb676a.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/5911cfda1fdf.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/0a3d62d717c2.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/75e47c4579b2.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/6bd663a6b759.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/e94367de4ca1.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/1106060e1893.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/15d70e485198.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/bf5b72ff47ba.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/aba2c1bec7b5.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/accf8a9417b5.webp"
+      ]
+    },
+    {
+      "id": "generic",
+      "title": {
+        "en": "Fun"
+      },
+      "premium": false,
+      "items": [
+        "https://sishin.github.io/VEYO-CONTENT/assets/5bcb8717996b.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/737f96268979.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/db0a9a0afe6d.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/bbc164d46ddd.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/8788bae17c90.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/c69b48d22f97.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/122b311c6b27.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/16333a42a8f7.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/4220f56e546c.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/6e73e0873b9b.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/86f3f3c88228.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/eea05ce59649.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/d13e495f3997.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/70a3826690de.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/1032c0afa7fb.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/8326d9c1cf09.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/90ca44116c5a.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/cea8a994f9c5.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/d3a9d92295a2.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/da248829f527.webp"
+      ]
+    }
+  ]
+}
