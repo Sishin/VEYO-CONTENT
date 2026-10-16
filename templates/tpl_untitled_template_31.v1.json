@@ -1,0 +1,1021 @@
+{
+  "id": "tpl_untitled_template_31",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "UK countryside",
+    "tags": [
+      "uk",
+      "travel book",
+      "countryside",
+      "story",
+      "portrait",
+      "travel"
+    ],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 8,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5e2e34416dc9.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.1,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "sticker_travel_book",
+      "type": "image",
+      "name": "sticker_travel_book.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/a25ca26f7c6c.webp",
+      "fit": "contain",
+      "x": 33,
+      "y": 63,
+      "w": 1026,
+      "h": 561,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "4 countryside stops\n\n01. Cotswolds — Straight out of a storybook.\n\n02. Lake District — A little peace and quiet.\n\n03. Scottish Highlands — Wild and wonderful.\n\n04. Peak District — Just me and the open road.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "fontSize": 35
+      },
+      "x": 149,
+      "y": 105,
+      "w": 342,
+      "h": 434,
+      "rotation": 1,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 550,
+      "y": 67,
+      "w": 214,
+      "h": 270,
+      "rotation": 4.34,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 29.881751813296507,
+          "y": 53.223906618733054,
+          "w": 154.51513437634964,
+          "h": 136.78171805863215,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/a14240cd887d.webp"
+        },
+        {
+          "id": "frame_frame_instant_square_png",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 214.0110611348536,
+          "h": 269.4692894542848,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 748,
+      "y": 62,
+      "w": 226,
+      "h": 290,
+      "rotation": -4.28,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 31.640131118861348,
+          "y": 57.27264240502759,
+          "w": 163.60751344373242,
+          "h": 147.18668590103246,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/1d2f689a2f9c.webp"
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 226.60445336341934,
+          "h": 289.96778392475505,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 547,
+      "y": 268,
+      "w": 221,
+      "h": 271,
+      "rotation": 4.13,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 3,
+          "x": 30.878784694793694,
+          "y": 53.43318576019571,
+          "w": 159.67067782054713,
+          "h": 137.31955081728617,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/c5a14308d683.webp"
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy_2",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 221.1517423870353,
+          "h": 270.52885657609573,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 761,
+      "y": 280,
+      "w": 224,
+      "h": 283,
+      "rotation": -4.47,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 4,
+          "x": 31.371419051348184,
+          "y": 55.79656917967733,
+          "w": 162.21803395538902,
+          "h": 143.39328093378614,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/30df22b3e6c6.webp"
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy_3",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 224.67995592874607,
+          "h": 282.49451808452017,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_paperclip_black",
+      "type": "image",
+      "name": "generic_paperclip_black.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/de395ecf64dc.webp",
+      "fit": "contain",
+      "x": 635,
+      "y": 83,
+      "w": 114,
+      "h": 65,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_paperclip_black_copy",
+      "type": "image",
+      "name": "generic_paperclip_black.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/de395ecf64dc.webp",
+      "fit": "contain",
+      "x": 806,
+      "y": 84,
+      "w": 114,
+      "h": 65,
+      "rotation": -18.51,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_tape_brown",
+      "type": "image",
+      "name": "generic_tape_brown.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/f81fb87845fd.webp",
+      "fit": "contain",
+      "x": 655,
+      "y": 290,
+      "w": 51,
+      "h": 29,
+      "rotation": -58.72,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_tape_brown_copy",
+      "type": "image",
+      "name": "generic_tape_brown.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/f81fb87845fd.webp",
+      "fit": "contain",
+      "x": 837,
+      "y": 301,
+      "w": 51,
+      "h": 29,
+      "rotation": -45,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9eff485534d2.webp"
+    },
+    {
+      "id": "image_slot_2_copy",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 1620,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/81b8bf421e8d.webp"
+    },
+    {
+      "id": "image_slot_2_copy_2",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "x": 1620,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/ffaff693216c.webp"
+    },
+    {
+      "id": "image_slot_2_copy_3",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/e5b6b46ee07e.webp"
+    },
+    {
+      "id": "image_slot_3",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/dfd5e42b295c.webp"
+    },
+    {
+      "id": "image_slot_2_copy_4",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/d0adb39674bf.webp"
+    },
+    {
+      "id": "image_slot_2_copy_5",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "x": 3780,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/27f8531c6df2.webp"
+    },
+    {
+      "id": "image_slot_2_copy_6",
+      "type": "image_slot",
+      "slotIndex": 12,
+      "allowUserTransform": true,
+      "x": 3780,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/4bdf83dbc123.webp"
+    },
+    {
+      "id": "image_slot_2_copy_7",
+      "type": "image_slot",
+      "slotIndex": 13,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/4605c79f223f.webp"
+    },
+    {
+      "id": "image_slot_4",
+      "type": "image_slot",
+      "slotIndex": 14,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5802a134a810.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.285116210635358,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2_copy_8",
+      "type": "image_slot",
+      "slotIndex": 15,
+      "allowUserTransform": true,
+      "x": 5400,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/be677d60e95a.webp"
+    },
+    {
+      "id": "image_slot_2_copy_9",
+      "type": "image_slot",
+      "slotIndex": 16,
+      "allowUserTransform": true,
+      "x": 5940,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b56df0725c22.webp"
+    },
+    {
+      "id": "image_slot_2_copy_10",
+      "type": "image_slot",
+      "slotIndex": 17,
+      "allowUserTransform": true,
+      "x": 5940,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/68e85e58b8c2.webp"
+    },
+    {
+      "id": "image_slot_2_copy_11",
+      "type": "image_slot",
+      "slotIndex": 18,
+      "allowUserTransform": true,
+      "x": 5400,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/ed5577d033a4.webp"
+    },
+    {
+      "id": "image_slot_5",
+      "type": "image_slot",
+      "slotIndex": 19,
+      "allowUserTransform": true,
+      "x": 6480,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/1df39c25c17f.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.28858360409440137,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2_copy_12",
+      "type": "image_slot",
+      "slotIndex": 20,
+      "allowUserTransform": true,
+      "x": 7560,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/8633e7715cbe.webp"
+    },
+    {
+      "id": "image_slot_2_copy_13",
+      "type": "image_slot",
+      "slotIndex": 21,
+      "allowUserTransform": true,
+      "x": 8100,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/164d0450155d.webp"
+    },
+    {
+      "id": "image_slot_2_copy_14",
+      "type": "image_slot",
+      "slotIndex": 22,
+      "allowUserTransform": true,
+      "x": 8100,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5853d5d4da37.webp"
+    },
+    {
+      "id": "image_slot_2_copy_15",
+      "type": "image_slot",
+      "slotIndex": 23,
+      "allowUserTransform": true,
+      "x": 7560,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/3eae6df02529.webp"
+    },
+    {
+      "id": "text_2",
+      "type": "text",
+      "content": "Cotswolds",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1390,
+      "y": 591,
+      "w": 460,
+      "h": 168,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy",
+      "type": "text",
+      "content": "Lake District",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3550,
+      "y": 591,
+      "w": 460,
+      "h": 168,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_2",
+      "type": "text",
+      "content": "Scottish Highlands",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 5710,
+      "y": 591,
+      "w": 460,
+      "h": 168,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_3",
+      "type": "text",
+      "content": "Peak District",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 7870,
+      "y": 591,
+      "w": 460,
+      "h": 168,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "travel_ticket_baggage_claim",
+      "type": "image",
+      "name": "travel_ticket_baggage_claim.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b5af2d73f369.webp",
+      "fit": "contain",
+      "x": 413,
+      "y": 92,
+      "w": 144,
+      "h": 82,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "blendMode": "multiply"
+    },
+    {
+      "id": "travel_ticket_boarding_pass",
+      "type": "image",
+      "name": "travel_ticket_boarding_pass.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/8e0191b5cb7f.webp",
+      "fit": "contain",
+      "x": 383,
+      "y": 386,
+      "w": 126,
+      "h": 72,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "blendMode": "multiply"
+    },
+    {
+      "id": "travel_stamp_view",
+      "type": "image",
+      "name": "travel_stamp_view.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/bef4c0cf9230.webp",
+      "fit": "contain",
+      "x": 654,
+      "y": 468,
+      "w": 117,
+      "h": 67,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "blendMode": "multiply"
+    },
+    {
+      "id": "travel_stamp_coconut_tree",
+      "type": "image",
+      "name": "travel_stamp_coconut_tree.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/60542c186223.webp",
+      "fit": "contain",
+      "x": 355,
+      "y": 297,
+      "w": 117,
+      "h": 67,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "blendMode": "multiply"
+    },
+    {
+      "id": "wedding_flower_white",
+      "type": "image",
+      "name": "wedding_flower_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/d3e94920b4f8.webp",
+      "fit": "contain",
+      "x": 2781,
+      "y": 410,
+      "w": 167,
+      "h": 96,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 1,
+  "updatedAt": "2026-10-16T05:17:18.213Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "group",
+    "text",
+    "image",
+    "image_slot"
+  ]
+}
