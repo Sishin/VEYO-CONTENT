@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-16T06:41:54.306Z",
+  "publishedAt": "2026-10-16T07:18:04.662Z",
   "fonts": [
     {
       "family": "AlfaSlabOne",
@@ -1072,14 +1072,14 @@
           "templateId": "tpl_christmas_tree",
           "title": "Christmas tree",
           "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_christmas_tree.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v1/thumb_sample_frame1.webp",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_christmas_tree.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v2/thumb_sample_frame1.webp",
           "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v1/frame_1.webp"
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v2/frame_1.webp"
           ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v1/strip_empty.webp",
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v2/strip_empty.webp",
           "frameCount": 1,
           "numberOfPanels": 1,
           "size": "stories",
@@ -1091,11 +1091,10 @@
             "FFFFFF",
             "FFFFFF"
           ],
-          "slotCount": 7,
+          "slotCount": 6,
           "premium": false,
           "requires": [
             "group",
-            "shape",
             "image",
             "image_slot"
           ]
