@@ -1,12 +1,18 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-19T18:35:54.636Z",
+  "publishedAt": "2026-10-21T04:52:27.312Z",
   "fonts": [
     {
       "family": "AlfaSlabOne",
       "weight": 400,
       "style": "normal",
       "url": "https://sishin.github.io/VEYO-CONTENT/fonts/08acc02d5ae4.ttf"
+    },
+    {
+      "family": "Allison",
+      "weight": 400,
+      "style": "normal",
+      "url": "https://sishin.github.io/VEYO-CONTENT/fonts/23d891ca1ac1.ttf"
     },
     {
       "family": "Caveat",
@@ -1455,14 +1461,14 @@
           "templateId": "tpl_untitled_template_33",
           "title": "Beach lady",
           "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_33.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v1/thumb_sample_frame1.webp",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_33.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v2/thumb_sample_frame1.webp",
           "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v1/frame_1.webp"
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v2/frame_1.webp"
           ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v1/strip_empty.webp",
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v2/strip_empty.webp",
           "frameCount": 1,
           "numberOfPanels": 1,
           "size": "stories",
@@ -1479,6 +1485,177 @@
           "requires": [
             "group",
             "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_46",
+          "title": "Coffee comes first",
+          "category": "Lifestyle",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_46.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 4,
+          "premium": false,
+          "requires": [
+            "text",
+            "image_slot",
+            "lottie"
+          ]
+        },
+        {
+          "templateId": "tpl_life_on_food_mode",
+          "title": "Life on food mode",
+          "category": "Lifestyle",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_life_on_food_mode.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 6,
+          "premium": false,
+          "requires": [
+            "shape",
+            "text",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_christmas_dump",
+          "title": "Home for the holidays",
+          "category": "Festive",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_christmas_dump.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 13,
+          "premium": false,
+          "requires": [
+            "shape",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_42",
+          "title": "Family 14",
+          "category": "Lifestyle",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_42.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 14,
+          "premium": false,
+          "requires": [
+            "shape",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_43",
+          "title": "Unhurried",
+          "category": "Lifestyle",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_43.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/frame_4.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/strip_empty.webp",
+          "frameCount": 4,
+          "numberOfPanels": 4,
+          "size": "landscape",
+          "frameSize": {
+            "w": 1920,
+            "h": 1080
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 14,
+          "premium": false,
+          "requires": [
+            "text",
             "image_slot"
           ]
         }
@@ -1685,6 +1862,463 @@
         "https://sishin.github.io/VEYO-CONTENT/assets/b5006c325687.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/9acc06c42628.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/5bc5e95f2aae.webp"
+      ]
+    }
+  ],
+  "framePacks": [
+    {
+      "id": "frames",
+      "title": {
+        "en": "Frames"
+      },
+      "premium": false,
+      "items": [
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/2ffeb0ce877d.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 153,
+              "y": 212,
+              "w": 782,
+              "h": 1019
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "w": 1132,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 158,
+              "y": 286,
+              "w": 817,
+              "h": 735
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/85078e35ccc6.webp",
+          "w": 1536,
+          "h": 1024,
+          "slots": [
+            {
+              "x": 257,
+              "y": 170,
+              "w": 1021,
+              "h": 425
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/5fb5c2e14a0f.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 106,
+              "y": 106,
+              "w": 874,
+              "h": 1234
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/27ddccd6f8aa.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": []
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/70a7bbc75bd8.webp",
+          "w": 1024,
+          "h": 1536,
+          "slots": []
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/b4e826a4ce7f.webp",
+          "w": 1087,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 161,
+              "y": 335,
+              "w": 793,
+              "h": 796
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/650d6a2081bd.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 143,
+              "y": 193,
+              "w": 799,
+              "h": 1060
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/bf21ae32dea4.webp",
+          "w": 895,
+          "h": 1756,
+          "slots": [
+            {
+              "x": 82,
+              "y": 50,
+              "w": 732,
+              "h": 1644
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/b298393c6538.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 117,
+              "y": 114,
+              "w": 867,
+              "h": 1207
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/761ae9c7ee25.webp",
+          "w": 1254,
+          "h": 1254,
+          "slots": [
+            {
+              "x": 393,
+              "y": 349,
+              "w": 476,
+              "h": 666
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/e6ac0db7d860.webp",
+          "w": 1024,
+          "h": 1536,
+          "slots": [
+            {
+              "x": 262,
+              "y": 127,
+              "w": 474,
+              "h": 965
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/516eff7d6471.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": []
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/cc3efbd737f5.webp",
+          "w": 994,
+          "h": 1246,
+          "slots": [
+            {
+              "x": 98,
+              "y": 92,
+              "w": 799,
+              "h": 1060
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/194995caf9bf.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 156,
+              "y": 347,
+              "w": 773,
+              "h": 754
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/29000e003504.webp",
+          "w": 1263,
+          "h": 1246,
+          "slots": []
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/63bd53531319.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 157,
+              "y": 186,
+              "w": 774,
+              "h": 1073
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/138777a06350.webp",
+          "w": 1048,
+          "h": 1340,
+          "slots": [
+            {
+              "x": 112,
+              "y": 116,
+              "w": 824,
+              "h": 1104
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/8a3ae7f68d54.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 140,
+              "y": 179,
+              "w": 824,
+              "h": 1104
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/2a883fa603c6.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 144,
+              "y": 176,
+              "w": 799,
+              "h": 962
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "w": 1281,
+          "h": 1228,
+          "slots": [
+            {
+              "x": 104,
+              "y": 94,
+              "w": 1073,
+              "h": 1048
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/eecb4820504a.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 128,
+              "y": 151,
+              "w": 831,
+              "h": 1146
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/855f0ad0eaaa.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 123,
+              "y": 303,
+              "w": 841,
+              "h": 838
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/b396ff5e7ce0.webp",
+          "w": 1536,
+          "h": 1024,
+          "slots": [
+            {
+              "x": 71,
+              "y": 109,
+              "w": 1189,
+              "h": 524
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/b428c4684437.webp",
+          "w": 1024,
+          "h": 1536,
+          "slots": [
+            {
+              "x": 227,
+              "y": 34,
+              "w": 533,
+              "h": 1076
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/d8d50743ab9d.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 177,
+              "y": 163,
+              "w": 734,
+              "h": 1110
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/c9a5db4df46e.webp",
+          "w": 1254,
+          "h": 1270,
+          "slots": [
+            {
+              "x": 398,
+              "y": 349,
+              "w": 466,
+              "h": 665
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/14cde25ab416.webp",
+          "w": 1086,
+          "h": 1039,
+          "slots": [
+            {
+              "x": 159,
+              "y": 144,
+              "w": 788,
+              "h": 741
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/85d08496c027.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 159,
+              "y": 341,
+              "w": 788,
+              "h": 741
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "w": 1536,
+          "h": 1024,
+          "slots": []
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/e029c0aaca63.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 112,
+              "y": 116,
+              "w": 863,
+              "h": 1216
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/e1c188048d5d.webp",
+          "w": 1024,
+          "h": 1536,
+          "slots": [
+            {
+              "x": 97,
+              "y": 83,
+              "w": 830,
+              "h": 1359
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/3cf62b92d7f3.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 94,
+              "y": 97,
+              "w": 898,
+              "h": 1254
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/316fe3b5e3e7.webp",
+          "w": 1281,
+          "h": 1451,
+          "slots": [
+            {
+              "x": 261,
+              "y": 256,
+              "w": 761,
+              "h": 907
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/d242dc87d3ad.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 128,
+              "y": 122,
+              "w": 862,
+              "h": 1177
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/1ab452e42ded.webp",
+          "w": 963,
+          "h": 1300,
+          "slots": [
+            {
+              "x": 80,
+              "y": 97,
+              "w": 799,
+              "h": 962
+            }
+          ]
+        },
+        {
+          "url": "https://sishin.github.io/VEYO-CONTENT/assets/f2c9395a1f73.webp",
+          "w": 1086,
+          "h": 1448,
+          "slots": [
+            {
+              "x": 125,
+              "y": 122,
+              "w": 865,
+              "h": 1172
+            }
+          ]
+        }
       ]
     }
   ]
