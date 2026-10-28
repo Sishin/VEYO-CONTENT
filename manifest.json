@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-28T14:40:22.331Z",
+  "publishedAt": "2026-10-28T14:42:21.839Z",
   "fonts": [
     {
       "family": "AlfaSlabOne",
@@ -2614,6 +2614,130 @@
           "premium": false,
           "requires": [
             "group",
+            "image",
+            "image_slot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section_6",
+      "title": {
+        "en": "Halloween"
+      },
+      "layout": "horizontal_carousel",
+      "rules": {
+        "platforms": [
+          "android",
+          "ios",
+          "web"
+        ],
+        "minAppVersion": "",
+        "locales": [
+          "*"
+        ],
+        "countries": [
+          "*"
+        ],
+        "startAt": null,
+        "endAt": null
+      },
+      "items": [
+        {
+          "templateId": "tpl_untitled_template_58",
+          "title": "Halloween dump 2",
+          "category": "Festive, Halloween",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_58.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/frame_5.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/frame_6.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_58.v1/strip_empty.webp",
+          "frameCount": 6,
+          "numberOfPanels": 6,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 8,
+          "premium": false,
+          "requires": [
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_26",
+          "title": "October nights",
+          "category": "Festive, Halloween, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_26.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 5,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_halloween_dump",
+          "title": "Halloween dump",
+          "category": "Festive, Story, Halloween",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_halloween_dump.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 6,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
             "image",
             "image_slot"
           ]
