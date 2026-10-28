@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-28T14:42:21.839Z",
+  "publishedAt": "2026-10-28T14:44:29.435Z",
   "fonts": [
     {
       "family": "AlfaSlabOne",
@@ -2739,6 +2739,101 @@
             "group",
             "text",
             "image",
+            "image_slot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section_7",
+      "title": {
+        "en": "November"
+      },
+      "layout": "horizontal_carousel",
+      "rules": {
+        "platforms": [
+          "android",
+          "ios",
+          "web"
+        ],
+        "minAppVersion": "",
+        "locales": [
+          "*"
+        ],
+        "countries": [
+          "*"
+        ],
+        "startAt": null,
+        "endAt": null
+      },
+      "items": [
+        {
+          "templateId": "tpl_untitled_template_50",
+          "title": "November memories",
+          "category": "Lifestyle, November",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_50.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v2/frame_4.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v2/strip_empty.webp",
+          "frameCount": 4,
+          "numberOfPanels": 4,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 38,
+          "premium": false,
+          "requires": [
+            "shape",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_51",
+          "title": "November recap",
+          "category": "Lifestyle, November",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_51.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v2/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v2/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v2/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 18,
+          "premium": false,
+          "requires": [
+            "shape",
+            "text",
             "image_slot"
           ]
         }
