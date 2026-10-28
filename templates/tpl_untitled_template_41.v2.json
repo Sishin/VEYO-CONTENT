@@ -1,0 +1,697 @@
+{
+  "id": "tpl_untitled_template_41",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Somewhere far away we found our way home",
+    "tags": [
+      "travel",
+      "portrait",
+      "post",
+      "couple",
+      "tiles"
+    ],
+    "premium": false,
+    "category": "Travel"
+  },
+  "canvas": {
+    "frameCount": 6,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/db755719a947.webp"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 540,
+      "y": 0,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/4b6bd60c0455.webp"
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 270,
+      "y": 337,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5a8f7c21888d.webp"
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 810,
+      "y": 337,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/ab45eade52b6.webp"
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 675,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/ea8eb50fb894.webp"
+    },
+    {
+      "id": "image_slot_copy_10",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 540,
+      "y": 675,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/c8aab785dc40.webp"
+    },
+    {
+      "id": "image_slot_copy_13",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 270,
+      "y": 1012,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/cbbbc4f6e7e0.webp"
+    },
+    {
+      "id": "image_slot_copy_15",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 810,
+      "y": 1012,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/ba6e995525ed.webp"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "somewhere",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 270,
+      "y": 109,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "far",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 810,
+      "y": 109,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "away",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 0,
+      "y": 446,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "we",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 540,
+      "y": 446,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "found",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 270,
+      "y": 784,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_5",
+      "type": "text",
+      "content": "our",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 810,
+      "y": 784,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_6",
+      "type": "text",
+      "content": "way",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 0,
+      "y": 1121,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_7",
+      "type": "text",
+      "content": "home",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 540,
+      "y": 1121,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9ab720c3fd23.webp",
+      "sampleTransform": {
+        "scale": 1.1,
+        "offsetX": 0.008834799388558766,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_8",
+      "type": "text",
+      "content": "between places",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 1485,
+      "y": 277,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2160,
+      "y": 0,
+      "w": 600,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/6e54600b9a69.webp"
+    },
+    {
+      "id": "text_copy_9",
+      "type": "text",
+      "content": "soft endings",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 2760,
+      "y": 615,
+      "w": 480,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 750,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/bfb4171c8eed.webp",
+      "sampleTransform": {
+        "scale": 1.14,
+        "offsetX": -0.03162180546774883,
+        "offsetY": -0.048646001264420424,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_10",
+      "type": "text",
+      "content": "two nomads",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 3540,
+      "y": 953,
+      "w": 480,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_3_copy",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4800,
+      "y": 0,
+      "w": 600,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/41ce51fced98.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.25,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_11",
+      "type": "text",
+      "content": "somewhre salty",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 4320,
+      "y": 615,
+      "w": 480,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_12",
+      "type": "text",
+      "content": "until life brings us back ❤️",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 5700,
+      "y": 615,
+      "w": 480,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 2,
+  "updatedAt": "2026-10-28T14:08:26.836Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "text",
+    "image_slot"
+  ]
+}

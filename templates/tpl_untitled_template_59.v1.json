@@ -1,0 +1,391 @@
+{
+  "id": "tpl_untitled_template_59",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Wish every day felt like this",
+    "tags": [
+      "travel",
+      "beach",
+      "portrait",
+      "post"
+    ],
+    "premium": false,
+    "category": "Travel"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b60b56513b6b.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.14,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "shape_copy",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#000000",
+      "strokeWidth": 0,
+      "cornerRadius": 24,
+      "x": 572,
+      "y": 237,
+      "w": 334,
+      "h": 94,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "opacity": 0.62
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Navagio Beach",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 662,
+      "y": 246,
+      "w": 220,
+      "h": 79,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "travel_location_pin_white",
+      "type": "image",
+      "name": "travel_location_pin_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b8286145f81f.webp",
+      "fit": "contain",
+      "x": 560,
+      "y": 248,
+      "w": 127,
+      "h": 73,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Wish every day felt like this :)",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 624,
+      "y": 331,
+      "w": 258,
+      "h": 110,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1120,
+      "y": -40,
+      "w": 480,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/3579d526fd0d.webp",
+      "cornerRadius": 50
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1640,
+      "y": 38,
+      "w": 480,
+      "h": 785,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/578a0fee1e65.webp",
+      "cornerRadius": 50,
+      "sampleTransform": {
+        "scale": 1.2,
+        "offsetX": -0.010961047978910086,
+        "offsetY": -0.09999999999999992,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1120,
+      "y": 675,
+      "w": 480,
+      "h": 767,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9cc661090393.webp",
+      "cornerRadius": 50
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1640,
+      "y": 863,
+      "w": 480,
+      "h": 579,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/d90def9cd5c4.webp",
+      "cornerRadius": 50
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2720,
+      "y": 40,
+      "w": 480,
+      "h": 785,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/f7c8680dd02a.webp",
+      "cornerRadius": 50
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2200,
+      "y": -88,
+      "w": 480,
+      "h": 591,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/c626933e6bbe.webp",
+      "cornerRadius": 50
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2200,
+      "y": 543,
+      "w": 480,
+      "h": 767,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/e7fb212e4a8d.webp",
+      "cornerRadius": 50
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2720,
+      "y": 865,
+      "w": 480,
+      "h": 550,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/69e7a8abc1d5.webp",
+      "cornerRadius": 50
+    },
+    {
+      "id": "image_slot_copy_9",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3280,
+      "y": 40,
+      "w": 1000,
+      "h": 1001,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/2a15e0389b5c.webp",
+      "cornerRadius": 50
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "cheers to making bad decisions cute 🩷 ",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 3623,
+      "y": 1041,
+      "w": 315,
+      "h": 309,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 1,
+  "updatedAt": "2026-10-28T13:45:24.511Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "shape",
+    "text",
+    "image",
+    "image_slot"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-23T09:10:01.548Z",
+  "publishedAt": "2026-10-28T14:16:23.922Z",
   "fonts": [
     {
       "family": "AlfaSlabOne",
@@ -107,1132 +107,22 @@
       },
       "items": [
         {
-          "templateId": "tpl_untitled_template_3",
-          "title": "Roam free",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_3.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_4",
-          "title": "Life story",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_4.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v2/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v2/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 4,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_5",
-          "title": "Italy Landscape",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_5.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v2/frame_3.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v2/strip_empty.webp",
-          "frameCount": 3,
-          "numberOfPanels": 3,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_7",
-          "title": "Rainy day",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_7.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_8",
-          "title": "My golden hour",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_8.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v1/frame_3.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v1/strip_empty.webp",
-          "frameCount": 3,
-          "numberOfPanels": 3,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 5,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_9",
-          "title": "Love from France",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_9.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v2/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v2/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v2/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 7,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_british_autumn",
-          "title": "British Autumn",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_british_autumn.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v2/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v2/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v2/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 7,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_10",
-          "title": "Travel scrapbook",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_10.v3.json",
-          "version": 3,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/frame_5.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/frame_6.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v3/strip_empty.webp",
-          "frameCount": 6,
-          "numberOfPanels": 6,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 10,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_11",
-          "title": "Focus on me",
-          "category": "Wedding",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_11.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 1,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_12",
-          "title": "Nepal",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_12.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/frame_5.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/frame_6.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v2/strip_empty.webp",
-          "frameCount": 6,
-          "numberOfPanels": 6,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 12,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_13",
-          "title": "Floral escape",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_13.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_15",
-          "title": "Travel China",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_15.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 10,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_16",
-          "title": "Forever begins",
-          "category": "Wedding",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_16.v4.json",
-          "version": 4,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_5.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_6.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_7.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/strip_empty.webp",
-          "frameCount": 7,
-          "numberOfPanels": 7,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 8,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_18",
-          "title": "New Zealand",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_18.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v2/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v2/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 8,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_19",
-          "title": "Our tribe",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_19.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 8,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_20",
-          "title": "Postcard from India",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_20.v3.json",
-          "version": 3,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v3/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v3/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v3/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v3/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v3/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v3/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v3/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v3/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 10,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_22",
-          "title": "Green things lately",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_22.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_22.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_22.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_22.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_22.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_22.v2/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_22.v2/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_22.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_22.v2/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "square",
-          "frameSize": {
-            "w": 1080,
-            "h": 1080
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 17,
-          "premium": true,
-          "badge": "new",
-          "requires": [
-            "shape",
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_23",
-          "title": "Outfits for the day",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_23.v3.json",
-          "version": 3,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_24",
-          "title": "Beach stamps",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_24.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 8,
-          "premium": false,
-          "badge": "new",
-          "requires": [
-            "group",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_31",
-          "title": "UK countryside",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_31.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/frame_5.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/frame_6.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/frame_7.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/frame_8.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v1/strip_empty.webp",
-          "frameCount": 8,
-          "numberOfPanels": 8,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 24,
-          "premium": false,
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_30",
-          "title": "Into the new year",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_30.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/frame_3.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/strip_empty.webp",
-          "frameCount": 3,
-          "numberOfPanels": 3,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 11,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_28",
-          "title": "Photo dump",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_28.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 52,
-          "premium": false,
-          "requires": [
-            "shape",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_27",
-          "title": "Catch us somewhere along the way",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_27.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 4,
-          "premium": false,
-          "requires": [
-            "group",
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_29",
-          "title": "A day in winter layers",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_29.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 5,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_26",
-          "title": "October nights",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_26.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 5,
-          "premium": false,
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_halloween_dump",
-          "title": "Halloween dump",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_halloween_dump.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_25",
-          "title": "Happy me",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_25.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 2,
-          "premium": false,
-          "requires": [
-            "group",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_happy_christmas",
-          "title": "Merry Christmas",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_happy_christmas.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_happy_christmas.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_happy_christmas.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_happy_christmas.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_happy_christmas.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_happy_christmas.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_happy_christmas.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_happy_christmas.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 8,
-          "premium": false,
-          "requires": [
-            "group",
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_christmas_tree",
-          "title": "Christmas tree",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_christmas_tree.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v2/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v2/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "requires": [
-            "group",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_beach_story",
-          "title": "A little june magic",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_beach_story.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 4,
-          "premium": false,
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_photo_dump_2",
-          "title": "Photo dump 2",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_photo_dump_2.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_photo_dump_2.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_photo_dump_2.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_photo_dump_2.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_photo_dump_2.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_photo_dump_2.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_photo_dump_2.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_photo_dump_2.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 31,
-          "premium": false,
-          "requires": [
-            "shape",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_32",
-          "title": "Travel places",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_32.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v2/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v2/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v2/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 5,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
           "templateId": "tpl_untitled_template_41",
           "title": "Somewhere far away we found our way home",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_41.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/thumb_sample_frame1.webp",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_41.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/thumb_sample_frame1.webp",
           "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/frame_5.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/frame_6.webp"
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/frame_5.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/frame_6.webp"
           ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v1/strip_empty.webp",
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_41.v2/strip_empty.webp",
           "frameCount": 6,
           "numberOfPanels": 6,
           "size": "portrait",
@@ -1254,21 +144,21 @@
         {
           "templateId": "tpl_untitled_template_40",
           "title": "Stamps I have been collecting",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_40.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/thumb_sample_frame1.webp",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_40.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/thumb_sample_frame1.webp",
           "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/frame_5.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/frame_6.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/frame_7.webp"
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/frame_5.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/frame_6.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/frame_7.webp"
           ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v1/strip_empty.webp",
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_40.v2/strip_empty.webp",
           "frameCount": 7,
           "numberOfPanels": 7,
           "size": "portrait",
@@ -1290,20 +180,412 @@
           ]
         },
         {
+          "templateId": "tpl_untitled_template_31",
+          "title": "UK countryside",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_31.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/frame_5.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/frame_6.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/frame_7.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/frame_8.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_31.v2/strip_empty.webp",
+          "frameCount": 8,
+          "numberOfPanels": 8,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 24,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_32",
+          "title": "Travel places",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_32.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v3/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v3/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v3/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v3/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v3/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_32.v3/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 5,
+          "premium": false,
+          "requires": [
+            "text",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_20",
+          "title": "Postcard from India",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_20.v4.json",
+          "version": 4,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v4/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v4/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v4/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v4/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v4/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v4/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v4/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_20.v4/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 10,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_12",
+          "title": "Nepal",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_12.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/frame_5.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/frame_6.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_12.v3/strip_empty.webp",
+          "frameCount": 6,
+          "numberOfPanels": 6,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 12,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_british_autumn",
+          "title": "British Autumn",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_british_autumn.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v3/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v3/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v3/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v3/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v3/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_british_autumn.v3/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 7,
+          "premium": false,
+          "requires": [
+            "text",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_3",
+          "title": "Roam free",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_3.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v2/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v2/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_3.v2/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 6,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_24",
+          "title": "Beach stamps",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_24.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v2/frame_4.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_24.v2/strip_empty.webp",
+          "frameCount": 4,
+          "numberOfPanels": 4,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 8,
+          "premium": false,
+          "requires": [
+            "group",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_9",
+          "title": "Love from France",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_9.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v3/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v3/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v3/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v3/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v3/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_9.v3/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 7,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_5",
+          "title": "Italy Landscape",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_5.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v3/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v3/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v3/frame_3.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_5.v3/strip_empty.webp",
+          "frameCount": 3,
+          "numberOfPanels": 3,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 6,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_10",
+          "title": "Travel scrapbook",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_10.v4.json",
+          "version": 4,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/frame_5.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/frame_6.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_10.v4/strip_empty.webp",
+          "frameCount": 6,
+          "numberOfPanels": 6,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 10,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_2",
+          "title": "Singapore",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_2.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/frame_5.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/frame_6.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_2.v1/strip_empty.webp",
+          "frameCount": 6,
+          "numberOfPanels": 6,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 9,
+          "premium": false,
+          "requires": [
+            "text",
+            "image_slot"
+          ]
+        },
+        {
           "templateId": "tpl_untitled_template_39",
           "title": "Reverie",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_39.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v1/thumb_sample_frame1.webp",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_39.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v2/thumb_sample_frame1.webp",
           "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v1/frame_4.webp"
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v2/frame_4.webp"
           ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v1/strip_empty.webp",
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_39.v2/strip_empty.webp",
           "frameCount": 4,
           "numberOfPanels": 4,
           "size": "portrait",
@@ -1324,17 +606,317 @@
           ]
         },
         {
+          "templateId": "tpl_untitled_template_15",
+          "title": "Travel China",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_15.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v2/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v2/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_15.v2/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 10,
+          "premium": false,
+          "requires": [
+            "group",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_18",
+          "title": "New Zealand",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_18.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v3/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v3/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v3/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v3/frame_4.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_18.v3/strip_empty.webp",
+          "frameCount": 4,
+          "numberOfPanels": 4,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 8,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_8",
+          "title": "My golden hour",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_8.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v2/frame_3.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_8.v2/strip_empty.webp",
+          "frameCount": 3,
+          "numberOfPanels": 3,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 5,
+          "premium": false,
+          "requires": [
+            "text",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_45",
+          "title": "Roadside stories",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_45.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v2/frame_4.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v2/frame_5.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v2/strip_empty.webp",
+          "frameCount": 5,
+          "numberOfPanels": 5,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 8,
+          "premium": false,
+          "requires": [
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_48",
+          "title": "Day and night",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_48.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v2/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v2/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v2/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v2/frame_4.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v2/strip_empty.webp",
+          "frameCount": 4,
+          "numberOfPanels": 4,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 16,
+          "premium": false,
+          "requires": [
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_59",
+          "title": "Wish every day felt like this",
+          "category": "Travel",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_59.v1.json",
+          "version": 1,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_59.v1/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_59.v1/frame_1.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_59.v1/frame_2.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_59.v1/frame_3.webp",
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_59.v1/frame_4.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_59.v1/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_59.v1/strip_empty.webp",
+          "frameCount": 4,
+          "numberOfPanels": 4,
+          "size": "portrait",
+          "frameSize": {
+            "w": 1080,
+            "h": 1350
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 10,
+          "premium": false,
+          "requires": [
+            "shape",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_4",
+          "title": "Life story",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_4.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v3/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v3/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 4,
+          "premium": false,
+          "requires": [
+            "group",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_beach_story",
+          "title": "A little june magic",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_beach_story.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 4,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_27",
+          "title": "Catch us somewhere along the way",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_27.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 4,
+          "premium": false,
+          "requires": [
+            "group",
+            "shape",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
           "templateId": "tpl_untitled_template_34",
           "title": "Beach water",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_34.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v1/thumb_sample_frame1.webp",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_34.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v2/thumb_sample_frame1.webp",
           "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v1/frame_1.webp"
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v2/frame_1.webp"
           ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v1/strip_empty.webp",
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v2/strip_empty.webp",
           "frameCount": 1,
           "numberOfPanels": 1,
           "size": "stories",
@@ -1355,120 +937,17 @@
           ]
         },
         {
-          "templateId": "tpl_untitled_template_38",
-          "title": "Woman sides",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_38.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "requires": [
-            "shape",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_36",
-          "title": "Christmas moments",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_36.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "requires": [
-            "group",
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_35",
-          "title": "Mastering photography",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_35.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 5,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
           "templateId": "tpl_untitled_template_33",
           "title": "Beach lady",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_33.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v2/thumb_sample_frame1.webp",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_33.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v3/thumb_sample_frame1.webp",
           "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v2/frame_1.webp"
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v3/frame_1.webp"
           ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v2/strip_empty.webp",
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v3/strip_empty.webp",
           "frameCount": 1,
           "numberOfPanels": 1,
           "size": "stories",
@@ -1485,1204 +964,6 @@
           "requires": [
             "group",
             "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_46",
-          "title": "Coffee comes first",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_46.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 4,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot",
-            "lottie"
-          ]
-        },
-        {
-          "templateId": "tpl_life_on_food_mode",
-          "title": "Life on food mode",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_life_on_food_mode.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_christmas_dump",
-          "title": "Home for the holidays",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_christmas_dump.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 13,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_42",
-          "title": "Family 14",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_42.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_42.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 14,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_43",
-          "title": "Unhurried",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_43.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_43.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "landscape",
-          "frameSize": {
-            "w": 1920,
-            "h": 1080
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 14,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_45",
-          "title": "Roadside stories",
-          "category": "travel",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_45.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_45.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 8,
-          "premium": false,
-          "requires": [
-            "text",
-            "image",
-            "image_slot"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "section_2",
-      "title": {
-        "en": "Festive"
-      },
-      "layout": "horizontal_carousel",
-      "rules": {
-        "platforms": [
-          "android",
-          "ios",
-          "web"
-        ],
-        "minAppVersion": "",
-        "locales": [
-          "*"
-        ],
-        "countries": [
-          "*"
-        ],
-        "startAt": null,
-        "endAt": null
-      },
-      "items": [
-        {
-          "templateId": "tpl_christmas_dump",
-          "title": "Home for the holidays",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_christmas_dump.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 13,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_36",
-          "title": "Christmas moments",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_36.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_36.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "requires": [
-            "group",
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "section_3",
-      "title": {
-        "en": "Lifestyle"
-      },
-      "layout": "horizontal_carousel",
-      "rules": {
-        "platforms": [
-          "android",
-          "ios",
-          "web"
-        ],
-        "minAppVersion": "",
-        "locales": [
-          "*"
-        ],
-        "countries": [
-          "*"
-        ],
-        "startAt": null,
-        "endAt": null
-      },
-      "items": [
-        {
-          "templateId": "tpl_untitled_template_46",
-          "title": "Coffee comes first",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_46.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 4,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot",
-            "lottie"
-          ]
-        },
-        {
-          "templateId": "tpl_life_on_food_mode",
-          "title": "Life on food mode",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_life_on_food_mode.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_life_on_food_mode.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_38",
-          "title": "Woman sides",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_38.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_38.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "requires": [
-            "shape",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_25",
-          "title": "Happy me",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_25.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 2,
-          "premium": false,
-          "requires": [
-            "group",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_29",
-          "title": "A day in winter layers",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_29.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 5,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_23",
-          "title": "Outfits for the day",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_23.v3.json",
-          "version": 3,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "requires": [
-            "group",
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_13",
-          "title": "Floral escape",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_13.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_13.v2/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "requires": [
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_7",
-          "title": "Rainy day",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_7.v2.json",
-          "version": 2,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_7.v2/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_19",
-          "title": "Our tribe",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_19.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_19.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 8,
-          "premium": false,
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_28",
-          "title": "Photo dump",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_28.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_28.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 52,
-          "premium": false,
-          "requires": [
-            "shape",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_35",
-          "title": "Mastering photography",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_35.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_35.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 5,
-          "premium": false,
-          "requires": [
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_51",
-          "title": "November recap",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_51.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_51.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 18,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_50",
-          "title": "November memories",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_50.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_50.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 38,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_49",
-          "title": "The good times",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_49.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_49.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_49.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_49.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_49.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_49.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_49.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_49.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_48",
-          "title": "Day and night",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_48.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v1/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_48.v1/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 16,
-          "premium": false,
-          "requires": [
-            "image_slot"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "section_4",
-      "title": {
-        "en": "Wedding"
-      },
-      "layout": "horizontal_carousel",
-      "rules": {
-        "platforms": [
-          "android",
-          "ios",
-          "web"
-        ],
-        "minAppVersion": "",
-        "locales": [
-          "*"
-        ],
-        "countries": [
-          "*"
-        ],
-        "startAt": null,
-        "endAt": null
-      },
-      "items": [
-        {
-          "templateId": "tpl_untitled_template_16",
-          "title": "Forever begins",
-          "category": "Wedding",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_16.v4.json",
-          "version": 4,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_5.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_6.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/frame_7.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_16.v4/strip_empty.webp",
-          "frameCount": 7,
-          "numberOfPanels": 7,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 8,
-          "premium": false,
-          "requires": [
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_11",
-          "title": "Focus on me",
-          "category": "Wedding",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_11.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 1,
-          "premium": false,
-          "requires": [
-            "image",
-            "image_slot"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "section_5",
-      "title": {
-        "en": "Christmas"
-      },
-      "layout": "horizontal_carousel",
-      "rules": {
-        "platforms": [
-          "android",
-          "ios",
-          "web"
-        ],
-        "minAppVersion": "",
-        "locales": [
-          "*"
-        ],
-        "countries": [
-          "*"
-        ],
-        "startAt": null,
-        "endAt": null
-      },
-      "items": [
-        {
-          "templateId": "tpl_christmas_dump",
-          "title": "Home for the holidays",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_christmas_dump.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_dump.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 13,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "section_6",
-      "title": {
-        "en": "New year"
-      },
-      "layout": "horizontal_carousel",
-      "rules": {
-        "platforms": [
-          "android",
-          "ios",
-          "web"
-        ],
-        "minAppVersion": "",
-        "locales": [
-          "*"
-        ],
-        "countries": [
-          "*"
-        ],
-        "startAt": null,
-        "endAt": null
-      },
-      "items": [
-        {
-          "templateId": "tpl_untitled_template_30",
-          "title": "Into the new year",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_30.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/frame_3.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_30.v1/strip_empty.webp",
-          "frameCount": 3,
-          "numberOfPanels": 3,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 11,
-          "premium": false,
-          "requires": [
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "section_7",
-      "title": {
-        "en": "Haloween"
-      },
-      "layout": "horizontal_carousel",
-      "rules": {
-        "platforms": [
-          "android",
-          "ios",
-          "web"
-        ],
-        "minAppVersion": "",
-        "locales": [
-          "*"
-        ],
-        "countries": [
-          "*"
-        ],
-        "startAt": null,
-        "endAt": null
-      },
-      "items": [
-        {
-          "templateId": "tpl_halloween_dump",
-          "title": "Halloween dump",
-          "category": "Festive",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_halloween_dump.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v1/frame_1.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v1/strip_empty.webp",
-          "frameCount": 1,
-          "numberOfPanels": 1,
-          "size": "stories",
-          "frameSize": {
-            "w": 1080,
-            "h": 1920
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 6,
-          "premium": false,
-          "requires": [
-            "group",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "section_8",
-      "title": {
-        "en": "Fashion"
-      },
-      "layout": "horizontal_carousel",
-      "rules": {
-        "platforms": [
-          "android",
-          "ios",
-          "web"
-        ],
-        "minAppVersion": "",
-        "locales": [
-          "*"
-        ],
-        "countries": [
-          "*"
-        ],
-        "startAt": null,
-        "endAt": null
-      },
-      "items": [
-        {
-          "templateId": "tpl_untitled_template_23",
-          "title": "Outfits for the day",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_23.v3.json",
-          "version": 3,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/frame_4.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_23.v3/strip_empty.webp",
-          "frameCount": 4,
-          "numberOfPanels": 4,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 9,
-          "premium": false,
-          "requires": [
-            "group",
-            "shape",
-            "text",
-            "image",
-            "image_slot"
-          ]
-        },
-        {
-          "templateId": "tpl_untitled_template_29",
-          "title": "A day in winter layers",
-          "category": "Lifestyle",
-          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_29.v1.json",
-          "version": 1,
-          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/thumb_sample_frame1.webp",
-          "thumbnails": [
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_1.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_2.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_3.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_4.webp",
-            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/frame_5.webp"
-          ],
-          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/strip_sample.webp",
-          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_29.v1/strip_empty.webp",
-          "frameCount": 5,
-          "numberOfPanels": 5,
-          "size": "portrait",
-          "frameSize": {
-            "w": 1080,
-            "h": 1350
-          },
-          "gradient": [
-            "FFFFFF",
-            "FFFFFF"
-          ],
-          "slotCount": 5,
-          "premium": false,
-          "requires": [
-            "text",
             "image_slot"
           ]
         }
@@ -2710,12 +991,14 @@
         "https://sishin.github.io/VEYO-CONTENT/assets/f7dc1d1c843f.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/d876ab837aa8.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/ba7576907d14.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/b8286145f81f.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/7ca4ffb49f07.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/b5af2d73f369.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/2666d361daf9.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/81e73ed9325c.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/0950865b1848.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/cb6521fcfca1.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/b2427c3d0295.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/12ca11950251.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/101008800911.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/8a9725588daf.webp",
@@ -2830,6 +1113,7 @@
       },
       "premium": false,
       "items": [
+        "https://sishin.github.io/VEYO-CONTENT/assets/8f0cead6dbfa.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/ef5dba938193.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/3b3efd520ea5.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/ce3bbe70da84.webp",
@@ -2837,11 +1121,14 @@
         "https://sishin.github.io/VEYO-CONTENT/assets/b4bc47e14d79.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/e6c6d1b0acbb.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/5ca9bb9e2fce.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/b5c41bfb114f.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/42f2edfa8646.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/abac97d58bc2.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/eecb4820504a.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/2e650ca799bb.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/980cdf5e575c.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/a25ca26f7c6c.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/18ed0cad5040.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/a8e946926437.webp"
       ]
     },
@@ -2872,6 +1159,26 @@
         "https://sishin.github.io/VEYO-CONTENT/assets/5ddef3c87cd1.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/0931945a8350.webp",
         "https://sishin.github.io/VEYO-CONTENT/assets/34721036c970.webp"
+      ]
+    },
+    {
+      "id": "separator",
+      "title": {
+        "en": "Separator"
+      },
+      "premium": false,
+      "items": [
+        "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/94600f9e9f83.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/e459e8345369.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/70a7bbc75bd8.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/29000e003504.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/516eff7d6471.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/27ddccd6f8aa.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/61edad3f80a0.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/b5006c325687.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/9acc06c42628.webp",
+        "https://sishin.github.io/VEYO-CONTENT/assets/5bc5e95f2aae.webp"
       ]
     },
     {
