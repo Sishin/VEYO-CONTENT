@@ -1,0 +1,444 @@
+{
+  "id": "tpl_untitled_template_60",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Christmas dump 2",
+    "tags": [
+      "christmas",
+      "dump",
+      "festive",
+      "portrait",
+      "post"
+    ],
+    "premium": false,
+    "category": "Festive, Christmas"
+  },
+  "canvas": {
+    "frameCount": 6,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "shape",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#F4EBDE",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 1080,
+      "y": 0,
+      "w": 5400,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/6d70b6970177.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.014495321939052657,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "sticker_christmas_holes",
+      "type": "image",
+      "name": "sticker_christmas_holes.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/42f2edfa8646.webp",
+      "fit": "contain",
+      "x": 0,
+      "y": 1,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1120,
+      "y": 40,
+      "w": 1000,
+      "h": 529,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9d0f002eb1b9.webp"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1120,
+      "y": 609,
+      "w": 1000,
+      "h": 529,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/78e74a20e6ac.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.17543182064019505,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Wish I could bottle up this feeling ❤️",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1320,
+      "y": 1138,
+      "w": 600,
+      "h": 212,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2160,
+      "y": 0,
+      "w": 2160,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/fdc63954c0bf.webp"
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3006,
+      "y": 324,
+      "w": 467,
+      "h": 703,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/71cf891e226f.webp",
+      "stroke": "#FFFFFF",
+      "strokeWidth": 20
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3513,
+      "y": 324,
+      "w": 467,
+      "h": 703,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/99c952d1ce9d.webp",
+      "stroke": "#FFFFFF",
+      "strokeWidth": 20
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2499,
+      "y": 324,
+      "w": 467,
+      "h": 703,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/2f813cfda21b.webp",
+      "stroke": "#FFFFFF",
+      "strokeWidth": 20
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Little things that make it Christmas 🎄",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 2940,
+      "y": 1032,
+      "w": 600,
+      "h": 212,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4360,
+      "y": 40,
+      "w": 1000,
+      "h": 529,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/91b6d244367b.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.15630720508319781,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4360,
+      "y": 609,
+      "w": 480,
+      "h": 529,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/75ec7f989734.webp"
+    },
+    {
+      "id": "image_slot_copy_9",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4880,
+      "y": 609,
+      "w": 480,
+      "h": 529,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/97a78031066c.webp"
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "The joy is in the giving 🎁",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 4560,
+      "y": 1138,
+      "w": 600,
+      "h": 212,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_10",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 5440,
+      "y": 40,
+      "w": 1000,
+      "h": 1270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/ea6c83605a3a.webp"
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "Until the magic returns ✨",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 5940,
+      "y": 40,
+      "w": 500,
+      "h": 212,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 1,
+  "updatedAt": "2026-10-28T13:44:53.622Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "shape",
+    "text",
+    "image",
+    "image_slot"
+  ]
+}

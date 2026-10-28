@@ -1,0 +1,909 @@
+{
+  "id": "tpl_happy_christmas",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Merry Christmas",
+    "tags": [
+      "christmas",
+      "festive",
+      "family",
+      "post"
+    ],
+    "premium": false,
+    "category": "Festive, Christmas"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "shape",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#C03030",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 0,
+      "y": 0,
+      "w": 4320,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 540,
+      "y": 0,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/4c76246fa640.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.09994548923412376,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/cf70e0ce45e3.webp"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Merry Christmas and a Happy New Year",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "PinyonScript",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFF6E5",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 60,
+      "y": 0,
+      "w": 420,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "From The Collins family",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "PinyonScript",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFF6E5",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 600,
+      "y": 675,
+      "w": 420,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 1198,
+      "y": 135,
+      "w": 844,
+      "h": 1080,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0",
+          "type": "image_slot",
+          "slotIndex": 3,
+          "x": 117.84530386740332,
+          "y": 213.31491712707182,
+          "w": 609.3646408839779,
+          "h": 548.2044198895028,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/8e334462cc5a.webp"
+        },
+        {
+          "id": "frame_frame_instant_square_png",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 844,
+          "h": 1080,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_tape_brown",
+      "type": "image",
+      "name": "generic_tape_brown.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/f81fb87845fd.webp",
+      "fit": "contain",
+      "x": 1460,
+      "y": 185,
+      "w": 320,
+      "h": 183,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_cute_reindeer",
+      "type": "image",
+      "name": "christmas_cute_reindeer.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/8743257a5aea.webp",
+      "fit": "contain",
+      "x": 1138,
+      "y": 174,
+      "w": 207,
+      "h": 119,
+      "rotation": -30.51,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Together is the tradition.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "PinyonScript",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1E0C04",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1262,
+      "y": 905,
+      "w": 717,
+      "h": 151,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "sticker_christmas_tree",
+      "type": "image",
+      "name": "sticker_christmas_tree.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4bc47e14d79.webp",
+      "fit": "contain",
+      "x": 2142,
+      "y": -267,
+      "w": 1116,
+      "h": 1677,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 2419,
+      "y": 40,
+      "w": 563,
+      "h": 721,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 4,
+          "x": 78.6212331603385,
+          "y": 142.31438407504317,
+          "w": 406.54143982276304,
+          "h": 365.7380150180305,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/55e47bc5025b.webp",
+          "sampleTransform": {
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": -0.1896252769729287,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 563.0798904128435,
+          "h": 720.5287697225962,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 2419,
+      "y": 589,
+      "w": 563,
+      "h": 721,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 5,
+          "x": 78.6212331603385,
+          "y": 142.31438407504317,
+          "w": 406.54143982276304,
+          "h": 365.7380150180305,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/fb005c87f2a6.webp",
+          "sampleTransform": {
+            "scale": 1.3,
+            "offsetX": 0,
+            "offsetY": -0.2204723371206209,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy_2",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 563.0798904128435,
+          "h": 720.5287697225962,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_snowman-1",
+      "type": "image",
+      "name": "christmas_snowman-1.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/88aaa45a9ef4.webp",
+      "fit": "contain",
+      "x": 2278,
+      "y": 501,
+      "w": 163,
+      "h": 93,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_snowman",
+      "type": "image",
+      "name": "christmas_snowman.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/34721036c970.webp",
+      "fit": "contain",
+      "x": 2962,
+      "y": 621,
+      "w": 189,
+      "h": 108,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_sock",
+      "type": "image",
+      "name": "christmas_sock.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/682a83b6cb7f.webp",
+      "fit": "contain",
+      "x": 2278,
+      "y": 940,
+      "w": 141,
+      "h": 81,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_snow_globe",
+      "type": "image",
+      "name": "christmas_snow_globe.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/492a3e61a995.webp",
+      "fit": "contain",
+      "x": 2871,
+      "y": 195,
+      "w": 142,
+      "h": 81,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_present",
+      "type": "image",
+      "name": "christmas_present.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/fcec0e9e2088.webp",
+      "fit": "contain",
+      "x": 2876,
+      "y": 1143,
+      "w": 147,
+      "h": 84,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 3697,
+      "y": -185,
+      "w": 563,
+      "h": 721,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 6,
+          "x": 78.6212331603385,
+          "y": 142.31438407504317,
+          "w": 406.54143982276304,
+          "h": 365.7380150180305,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/d9f4a059ed84.webp"
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy_3",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 563.0798904128435,
+          "h": 720.5287697225962,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy_4",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 3697,
+      "y": 349,
+      "w": 563,
+      "h": 721,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy_4",
+          "type": "image_slot",
+          "slotIndex": 7,
+          "x": 78.6212331603385,
+          "y": 142.31438407504317,
+          "w": 406.54143982276304,
+          "h": 365.7380150180305,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/21d56dade855.webp"
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy_4",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 563.0798904128435,
+          "h": 720.5287697225962,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy_5",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 3697,
+      "y": 889,
+      "w": 563,
+      "h": 721,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy_5",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 78.6212331603385,
+          "y": 142.31438407504317,
+          "w": 406.54143982276304,
+          "h": 365.7380150180305,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/83c88c8a3b7d.webp"
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy_5",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/b4b677e7922f.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 563.0798904128435,
+          "h": 720.5287697225962,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "Somewhere in time, we'll wish for days like these.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "PinyonScript",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFF6E5",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3277,
+      "y": 338,
+      "w": 420,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_wave_white",
+      "type": "image",
+      "name": "Seperator_wave_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/9acc06c42628.webp",
+      "fit": "contain",
+      "x": 3458,
+      "y": 0,
+      "w": 59,
+      "h": 320,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_wave_white_copy",
+      "type": "image",
+      "name": "Seperator_wave_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/9acc06c42628.webp",
+      "fit": "contain",
+      "x": 3458,
+      "y": 1030,
+      "w": 59,
+      "h": 320,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_happy_star",
+      "type": "image",
+      "name": "christmas_happy_star.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/c97e99c7c51d.webp",
+      "fit": "contain",
+      "x": 3431,
+      "y": 311,
+      "w": 133,
+      "h": 76,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_happy_star_copy",
+      "type": "image",
+      "name": "christmas_happy_star.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/c97e99c7c51d.webp",
+      "fit": "contain",
+      "x": 3431,
+      "y": 964,
+      "w": 133,
+      "h": 76,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_tape_brown_copy",
+      "type": "image",
+      "name": "generic_tape_brown.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/f81fb87845fd.webp",
+      "fit": "contain",
+      "x": 2614,
+      "y": 86,
+      "w": 173,
+      "h": 99,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_tape_brown_copy_2",
+      "type": "image",
+      "name": "generic_tape_brown.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/f81fb87845fd.webp",
+      "fit": "contain",
+      "x": 2614,
+      "y": 641,
+      "w": 173,
+      "h": 99,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_tape_brown_copy_3",
+      "type": "image",
+      "name": "generic_tape_brown.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/f81fb87845fd.webp",
+      "fit": "contain",
+      "x": 3892,
+      "y": 931,
+      "w": 173,
+      "h": 99,
+      "rotation": -12.37,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_tape_brown_copy_4",
+      "type": "image",
+      "name": "generic_tape_brown.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/f81fb87845fd.webp",
+      "fit": "contain",
+      "x": 3893,
+      "y": 391,
+      "w": 173,
+      "h": 99,
+      "rotation": -20.61,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 2,
+  "updatedAt": "2026-10-28T14:03:58.312Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "group",
+    "shape",
+    "text",
+    "image",
+    "image_slot"
+  ]
+}

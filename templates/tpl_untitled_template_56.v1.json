@@ -1,0 +1,927 @@
+{
+  "id": "tpl_untitled_template_56",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "What feels like christmas",
+    "tags": [
+      "christmas",
+      "festive",
+      "post",
+      "portrait"
+    ],
+    "premium": false,
+    "category": "Festive, Christmas"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 720,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/3994cb701a64.webp"
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 360,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9bc96fe724bb.webp"
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/d3cd935b4920.webp"
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 720,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/6567550c60af.webp"
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 360,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/7834a33edaa9.webp"
+    },
+    {
+      "id": "image_slot_copy_9",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/043132e36e6a.webp"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "What feels like Christmas?",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 0,
+      "y": 194,
+      "w": 1080,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Little traditions",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#CB1515",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 0,
+      "y": 241,
+      "w": 1080,
+      "h": 43,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1800,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/407f323da024.webp"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 12,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1440,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/0ee5a96f850d.webp"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 13,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/eae9b2a6dc5f.webp"
+    },
+    {
+      "id": "image_slot_copy_10",
+      "type": "image_slot",
+      "slotIndex": 14,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1800,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/83e99d4e8470.webp"
+    },
+    {
+      "id": "image_slot_copy_11",
+      "type": "image_slot",
+      "slotIndex": 15,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1440,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/996053d90364.webp"
+    },
+    {
+      "id": "image_slot_copy_12",
+      "type": "image_slot",
+      "slotIndex": 16,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/dc67c86c378c.webp"
+    },
+    {
+      "id": "image_slot_copy_13",
+      "type": "image_slot",
+      "slotIndex": 17,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2880,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/744d1d7b8361.webp"
+    },
+    {
+      "id": "image_slot_copy_14",
+      "type": "image_slot",
+      "slotIndex": 18,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2520,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/170d83e7f920.webp"
+    },
+    {
+      "id": "image_slot_copy_15",
+      "type": "image_slot",
+      "slotIndex": 19,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2160,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/93756222116f.webp"
+    },
+    {
+      "id": "image_slot_copy_16",
+      "type": "image_slot",
+      "slotIndex": 20,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2880,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/2a896401f575.webp"
+    },
+    {
+      "id": "image_slot_copy_17",
+      "type": "image_slot",
+      "slotIndex": 21,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2520,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/3aed3ae791ed.webp"
+    },
+    {
+      "id": "image_slot_copy_18",
+      "type": "image_slot",
+      "slotIndex": 22,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2160,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/8cf1d107eaa0.webp"
+    },
+    {
+      "id": "image_slot_copy_19",
+      "type": "image_slot",
+      "slotIndex": 23,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3960,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9acc5aeffd72.webp"
+    },
+    {
+      "id": "image_slot_copy_20",
+      "type": "image_slot",
+      "slotIndex": 24,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3600,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/d1681e937941.webp"
+    },
+    {
+      "id": "image_slot_copy_21",
+      "type": "image_slot",
+      "slotIndex": 25,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3240,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/531d4d97351a.webp"
+    },
+    {
+      "id": "image_slot_copy_22",
+      "type": "image_slot",
+      "slotIndex": 26,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3960,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/4e2c458b9fcc.webp"
+    },
+    {
+      "id": "image_slot_copy_23",
+      "type": "image_slot",
+      "slotIndex": 27,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3600,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/1451d7a7b9ea.webp"
+    },
+    {
+      "id": "image_slot_copy_24",
+      "type": "image_slot",
+      "slotIndex": 28,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3240,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/cf3219d3e4cb.webp"
+    },
+    {
+      "id": "image_slot_copy_25",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 5040,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/29ec21198bec.webp"
+    },
+    {
+      "id": "image_slot_copy_26",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4680,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/efd8afa768d6.webp"
+    },
+    {
+      "id": "image_slot_copy_27",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4320,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/c9495aa77de8.webp"
+    },
+    {
+      "id": "image_slot_copy_28",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 5040,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/a30165eda43b.webp"
+    },
+    {
+      "id": "image_slot_copy_29",
+      "type": "image_slot",
+      "slotIndex": 29,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4680,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b3207a81d3c3.webp"
+    },
+    {
+      "id": "image_slot_copy_30",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4320,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/3af862a1a8b9.webp"
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "What never gets old?",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1080,
+      "y": 196,
+      "w": 1080,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "Christmas mornings",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#CB1515",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1080,
+      "y": 243,
+      "w": 1080,
+      "h": 43,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "What's your kind of December?",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 2160,
+      "y": 198,
+      "w": 1080,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_5",
+      "type": "text",
+      "content": "Slow and cozy",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#CB1515",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 2160,
+      "y": 245,
+      "w": 1080,
+      "h": 43,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_6",
+      "type": "text",
+      "content": "What makes winter magical?",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 3240,
+      "y": 200,
+      "w": 1080,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_7",
+      "type": "text",
+      "content": "Christmas lights",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#CB1515",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 3240,
+      "y": 247,
+      "w": 1080,
+      "h": 43,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_8",
+      "type": "text",
+      "content": "Where does the magic begin?",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 4320,
+      "y": 202,
+      "w": 1080,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_9",
+      "type": "text",
+      "content": "At home",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#CB1515",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 4320,
+      "y": 249,
+      "w": 1080,
+      "h": 43,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 1,
+  "updatedAt": "2026-10-28T13:46:02.238Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "text",
+    "image_slot"
+  ]
+}

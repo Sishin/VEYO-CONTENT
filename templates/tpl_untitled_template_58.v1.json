@@ -1,0 +1,700 @@
+{
+  "id": "tpl_untitled_template_58",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Halloween dump 2",
+    "tags": [
+      "halloween",
+      "dump",
+      "post",
+      "portrait"
+    ],
+    "premium": false,
+    "category": "Festive, Halloween"
+  },
+  "canvas": {
+    "frameCount": 6,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "background_black_pattern",
+      "type": "image",
+      "name": "background_black_pattern.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/383e886021cd.webp",
+      "fit": "cover",
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b28809c2bec2.webp",
+      "sampleTransform": {
+        "scale": 1.11,
+        "offsetX": -0.010571733679941636,
+        "offsetY": 0.12160000000000006,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_22",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": -61,
+      "y": 1003,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "sticker_halloween_holes_2",
+      "type": "image",
+      "name": "sticker_halloween_holes_2.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/8f0cead6dbfa.webp",
+      "fit": "contain",
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/1972361df17e.webp"
+    },
+    {
+      "id": "image_slot_2_copy",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 675,
+      "w": 540,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b264e410ca0f.webp"
+    },
+    {
+      "id": "image_slot_2_copy_4",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1620,
+      "y": 675,
+      "w": 1620,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9c97339bcb1f.webp",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.38924956871540667,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "seperator_brush_white",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 1557,
+      "y": 654,
+      "w": 131,
+      "h": 712,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 1341,
+      "y": 319,
+      "w": 131,
+      "h": 712,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2_copy_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/f76919972432.webp"
+    },
+    {
+      "id": "seperator_brush_white_copy_2",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 1979,
+      "y": 319,
+      "w": 131,
+      "h": 712,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_3",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 2635,
+      "y": 319,
+      "w": 131,
+      "h": 712,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_4",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 2839,
+      "y": 319,
+      "w": 131,
+      "h": 712,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_3",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3372,
+      "y": 166,
+      "w": 815,
+      "h": 1019,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 200,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 20,
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/f9145e748375.webp"
+    },
+    {
+      "id": "image_slot_2_copy_5",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4320,
+      "y": 0,
+      "w": 540,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/6c8478f76931.webp"
+    },
+    {
+      "id": "image_slot_2_copy_6",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4860,
+      "y": 0,
+      "w": 540,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b337e74f0da6.webp"
+    },
+    {
+      "id": "seperator_brush_white_copy_5",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 4799,
+      "y": -40,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_6",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 4799,
+      "y": 491,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_7",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 4799,
+      "y": 1003,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_8",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 2095,
+      "y": -18,
+      "w": 131,
+      "h": 712,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_9",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 4259,
+      "y": 403,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_10",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 4259,
+      "y": -128,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_11",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 4259,
+      "y": 915,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_12",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 3180,
+      "y": 413,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_13",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 3180,
+      "y": -118,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_14",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 3180,
+      "y": 925,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_15",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 6419,
+      "y": 491,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_16",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 6419,
+      "y": 1003,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_17",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 6419,
+      "y": -40,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_18",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 1019,
+      "y": 491,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_19",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 1019,
+      "y": 1003,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_20",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": 1019,
+      "y": -40,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_21",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": -61,
+      "y": 491,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_brush_white_copy_23",
+      "type": "image",
+      "name": "Seperator_brush_white.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3e6be6159409.webp",
+      "fit": "contain",
+      "x": -61,
+      "y": -40,
+      "w": 122,
+      "h": 694,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "background_black_pattern_copy",
+      "type": "image",
+      "name": "background_black_pattern.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/383e886021cd.webp",
+      "fit": "cover",
+      "x": 5400,
+      "y": 1,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 1,
+  "updatedAt": "2026-10-28T13:45:42.205Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "image",
+    "image_slot"
+  ]
+}

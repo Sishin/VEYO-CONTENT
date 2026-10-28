@@ -1,0 +1,403 @@
+{
+  "id": "tpl_untitled_template_26",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "October nights",
+    "tags": [
+      "halloween",
+      "story",
+      "polaroid",
+      "festive"
+    ],
+    "premium": false,
+    "category": "Festive, Halloween, Story"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "frame_frame_paper_filled_uneven_2_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_uneven.png",
+      "x": -160,
+      "y": 1399,
+      "w": 1401,
+      "h": 934,
+      "rotation": -7.4,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_uneven_2_png_copy_2",
+          "type": "image",
+          "name": "Frame_paper_filled_uneven.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1400.81131088665,
+          "h": 933.8742072577687,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_uneven_2_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 0,
+          "y": 0,
+          "w": 1400.81131088665,
+          "h": 933.8742072577687,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/b523051175b2.webp"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_filled_uneven_2",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_uneven.png",
+      "x": -160,
+      "y": 167,
+      "w": 1401,
+      "h": 934,
+      "rotation": -7.4,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_uneven_2_png",
+          "type": "image",
+          "name": "Frame_paper_filled_uneven.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1400.81131088665,
+          "h": 933.8742072577687,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_uneven_2_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 0,
+          "y": 0,
+          "w": 1400.81131088665,
+          "h": 933.8742072577687,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/28f9432a80d1.webp"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_filled_uneven",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_uneven.png",
+      "x": -133,
+      "y": -368,
+      "w": 1347,
+      "h": 898,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_uneven_png",
+          "type": "image",
+          "name": "Frame_paper_filled_uneven.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1346.7342869430527,
+          "h": 897.8228579620351,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_uneven_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 0,
+          "y": 0,
+          "w": 1346.7342869430527,
+          "h": 897.8228579620351,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/fb08a76ff013.webp"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_filled_uneven_2_copy",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_uneven.png",
+      "x": -160,
+      "y": 781,
+      "w": 1401,
+      "h": 934,
+      "rotation": -7.4,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_uneven_2_png_copy",
+          "type": "image",
+          "name": "Frame_paper_filled_uneven.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1400.81131088665,
+          "h": 933.8742072577687,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_uneven_2_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 3,
+          "x": 0,
+          "y": 0,
+          "w": 1400.81131088665,
+          "h": 933.8742072577687,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/01274cd8175c.webp",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/ae06af2287aa.webp"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_portrait_no_padding",
+      "type": "group",
+      "name": "Frame · Frame_instant_portrait_no_padding.png",
+      "x": 183,
+      "y": 495,
+      "w": 715,
+      "h": 944,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_portrait_no_padding_slot0",
+          "type": "image_slot",
+          "slotIndex": 4,
+          "x": 59.351543473076426,
+          "y": 70.47382669594616,
+          "w": 592.7735404373507,
+          "h": 698.9259925927855,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/1ab452e42ded.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.10012515644555693,
+            "y": -0.10083160083160082,
+            "w": 1.2052565707133918,
+            "h": 1.3509398821898821
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9fd13f552f4d.webp"
+        },
+        {
+          "id": "frame_frame_instant_portrait_no_padding_png",
+          "type": "image",
+          "name": "Frame_instant_portrait_no_padding.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/1ab452e42ded.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 714.4442045571576,
+          "h": 944.206998092744,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "blendMode": "normal"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Tricks or treats 🎃",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "GloriaHallelujah",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 237,
+      "y": 1301,
+      "w": 600,
+      "h": 101,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "tape_masking_copy",
+      "type": "image",
+      "name": "tape_masking.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/d1f8cd5ca7ed.webp",
+      "fit": "contain",
+      "x": 419,
+      "y": 450,
+      "w": 243,
+      "h": 89,
+      "rotation": 6.31,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "tape_masking_copy_2",
+      "type": "image",
+      "name": "tape_masking.png",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/d1f8cd5ca7ed.webp",
+      "fit": "contain",
+      "x": 415,
+      "y": 1402,
+      "w": 243,
+      "h": 74,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 2,
+  "updatedAt": "2026-10-28T14:05:09.927Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "group",
+    "text",
+    "image",
+    "image_slot"
+  ]
+}
