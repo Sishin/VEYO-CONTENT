@@ -1,0 +1,370 @@
+{
+  "id": "tpl_untitled_template_57",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "The little things",
+    "tags": [
+      "lifestyle",
+      "post",
+      "portrait"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 317,
+      "y": 252,
+      "w": 446,
+      "h": 676,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/ae6f6eb78c94.webp"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "The Little Things",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 317,
+      "y": 948,
+      "w": 284,
+      "h": 85,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Maybe this is what a good life looks like",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#616161",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 317,
+      "y": 1033,
+      "w": 284,
+      "h": 65,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1397,
+      "y": 252,
+      "w": 446,
+      "h": 676,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/3f69f7510edb.webp"
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Slow Mornings",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1397,
+      "y": 948,
+      "w": 284,
+      "h": 85,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "There's nowhere else I'd rather be",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#616161",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1397,
+      "y": 1033,
+      "w": 284,
+      "h": 65,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2477,
+      "y": 252,
+      "w": 446,
+      "h": 676,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/c17304d5f9ef.webp"
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "Life, Lately",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 2477,
+      "y": 948,
+      "w": 284,
+      "h": 85,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_5",
+      "type": "text",
+      "content": "A few moments worth holding on to",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#616161",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 2477,
+      "y": 1033,
+      "w": 284,
+      "h": 65,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3557,
+      "y": 252,
+      "w": 446,
+      "h": 676,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/7835ce33f0f1.webp"
+    },
+    {
+      "id": "text_copy_6",
+      "type": "text",
+      "content": "In My Own Time",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 3557,
+      "y": 948,
+      "w": 284,
+      "h": 85,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_7",
+      "type": "text",
+      "content": "Learning to enjoy the in-between",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#616161",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 3557,
+      "y": 1033,
+      "w": 284,
+      "h": 65,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 1,
+  "updatedAt": "2026-10-28T06:20:14.768Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "text",
+    "image_slot"
+  ]
+}

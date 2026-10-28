@@ -1,0 +1,1080 @@
+{
+  "id": "tpl_untitled_template_54",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "The workday",
+    "tags": [
+      "workday",
+      "office",
+      "post",
+      "portrait"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/be33df097b65.webp"
+    },
+    {
+      "id": "frame_frame_airdrop",
+      "type": "group",
+      "name": "Frame · Frame_airdrop.png",
+      "x": 134,
+      "y": 175,
+      "w": 813,
+      "h": 1080,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_airdrop_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 101.57676348547719,
+          "y": 224.81327800829877,
+          "w": 610.2074688796681,
+          "h": 635.6016597510373,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/f2410bf2ddd6.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1664626682986536,
+            "y": -0.35370152761457113,
+            "w": 1.3323337413300693,
+            "h": 1.699177438307873
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/e115e3094e51.webp",
+          "sampleTransform": {
+            "scale": 1.0176540221507624,
+            "offsetX": 0,
+            "offsetY": 0.13317441326047877,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_airdrop_png",
+          "type": "image",
+          "name": "Frame_airdrop.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/f2410bf2ddd6.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 813,
+          "h": 1080,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 0,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/59bafa840ad8.webp"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1440,
+      "y": 0,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/af70a8500754.webp"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1800,
+      "y": 0,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/00ab7aac2429.webp"
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1800,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/9bb7bbfebf65.webp"
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1440,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/844635ab2927.webp"
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/e02d619d4569.webp"
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1800,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/c10028f28875.webp"
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1440,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/8b1e62c44e01.webp"
+    },
+    {
+      "id": "image_slot_copy_9",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/43dd98073fe4.webp"
+    },
+    {
+      "id": "image_slot_copy_10",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/970c7354c345.webp"
+    },
+    {
+      "id": "frame_frame_kodak",
+      "type": "group",
+      "name": "Frame · Frame_kodak.png",
+      "x": 3348,
+      "y": 261,
+      "w": 864,
+      "h": 828,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_kodak_slot0",
+          "type": "image_slot",
+          "slotIndex": 12,
+          "x": 70.14519906323184,
+          "y": 63.40046838407494,
+          "w": 723.7096018735363,
+          "h": 706.847775175644,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.09692451071761417,
+            "y": -0.08969465648854963,
+            "w": 1.1938490214352284,
+            "h": 1.1713979007633588
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/85fb027bca2c.webp",
+          "sampleTransform": {
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0.1850700556261088,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_kodak_png",
+          "type": "image",
+          "name": "Frame_kodak.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 828,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_11",
+      "type": "image_slot",
+      "slotIndex": 13,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/6fa317596fee.webp"
+    },
+    {
+      "id": "frame_frame_kodak_copy",
+      "type": "group",
+      "name": "Frame · Frame_kodak.png",
+      "x": 2783,
+      "y": 119,
+      "w": 396,
+      "h": 380,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_kodak_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 15,
+          "x": 32.15058923904211,
+          "y": 29.05918642759575,
+          "w": 331.70752166819415,
+          "h": 323.9790146395781,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.09692451071761417,
+            "y": -0.08969465648854963,
+            "w": 1.1938490214352284,
+            "h": 1.1713979007633588
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5eaa008587ea.webp"
+        },
+        {
+          "id": "frame_frame_kodak_png_copy",
+          "type": "image",
+          "name": "Frame_kodak.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 396.0087001462784,
+          "h": 379.5083376401833,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_kodak_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_kodak.png",
+      "x": 2783,
+      "y": 485,
+      "w": 396,
+      "h": 380,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_kodak_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 16,
+          "x": 32.15058923904211,
+          "y": 29.05918642759575,
+          "w": 331.70752166819415,
+          "h": 323.9790146395781,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.09692451071761417,
+            "y": -0.08969465648854963,
+            "w": 1.1938490214352284,
+            "h": 1.1713979007633588
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/6535d2727a96.webp"
+        },
+        {
+          "id": "frame_frame_kodak_png_copy_2",
+          "type": "image",
+          "name": "Frame_kodak.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 396.0087001462784,
+          "h": 379.5083376401833,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_kodak_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_kodak.png",
+      "x": 2783,
+      "y": 854,
+      "w": 396,
+      "h": 380,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_kodak_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 17,
+          "x": 32.15058923904211,
+          "y": 29.05918642759575,
+          "w": 331.70752166819415,
+          "h": 323.9790146395781,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.09692451071761417,
+            "y": -0.08969465648854963,
+            "w": 1.1938490214352284,
+            "h": 1.1713979007633588
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/30068edd90d6.webp"
+        },
+        {
+          "id": "frame_frame_kodak_png_copy_3",
+          "type": "image",
+          "name": "Frame_kodak.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/5d38d11e5dda.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 396.0087001462784,
+          "h": 379.5083376401833,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_12",
+      "type": "image_slot",
+      "slotIndex": 14,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4320,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/4c5d8aa9d8aa.webp"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "10:18 AM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1080,
+      "y": 0,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "11:03 AM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1440,
+      "y": 0,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "11:44 AM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1800,
+      "y": 0,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "01:04 PM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1800,
+      "y": 450,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "12:41 PM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1440,
+      "y": 450,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_copy_5",
+      "type": "text",
+      "content": "12:15 PM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1080,
+      "y": 450,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_copy_6",
+      "type": "text",
+      "content": "02:23 PM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1080,
+      "y": 900,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_copy_7",
+      "type": "text",
+      "content": "03:38 PM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1440,
+      "y": 900,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_copy_8",
+      "type": "text",
+      "content": "4:04 PM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1800,
+      "y": 900,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_2",
+      "type": "text",
+      "content": "The Workday",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 240,
+      "y": 97,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_9",
+      "type": "text",
+      "content": "Brew O’Clock ",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 2349,
+      "y": 984,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "9febef24-a2d3-4b30-a4c7-ac9685f7fc37",
+      "type": "lottie",
+      "name": "9febef24-a2d3-4b30-a4c7-ac9685f7fc37.json",
+      "asset": "https://sishin.github.io/VEYO-CONTENT/assets/da7e2d839d68.json",
+      "loop": true,
+      "x": 2505,
+      "y": 956,
+      "w": 134,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_10",
+      "type": "text",
+      "content": "Glazed & confused",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 4544,
+      "y": 1104,
+      "w": 360,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 1,
+  "updatedAt": "2026-10-26T10:50:50.583Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "group",
+    "text",
+    "image",
+    "image_slot",
+    "lottie"
+  ]
+}

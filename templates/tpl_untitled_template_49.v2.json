@@ -1,0 +1,348 @@
+{
+  "id": "tpl_untitled_template_49",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "The good times",
+    "tags": [
+      "lifestyle",
+      "paper",
+      "outdoors",
+      "portrait",
+      "post"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 4320,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/d5e06ad37465.webp"
+    },
+    {
+      "id": "frame_frame_newspaper_cutout",
+      "type": "group",
+      "name": "Frame · Frame_newspaper_cutout.png",
+      "x": 42,
+      "y": 13,
+      "w": 997,
+      "h": 1325,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_newspaper_cutout_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 84.33322884914462,
+          "y": 389.58285066180935,
+          "w": 702.1657967222258,
+          "h": 805.7490017217184,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "https://sishin.github.io/VEYO-CONTENT/assets/3447f4563e13.webp",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.12010443864229765,
+            "y": -0.4835039817974972,
+            "w": 1.4210400348128809,
+            "h": 1.6450511945392492
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/03a42b64cc43.webp"
+        },
+        {
+          "id": "frame_frame_newspaper_cutout_png",
+          "type": "image",
+          "name": "Frame_newspaper_cutout.png",
+          "asset": "https://sishin.github.io/VEYO-CONTENT/assets/3447f4563e13.webp",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 997.8057082185659,
+          "h": 1325.4983577811206,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1160,
+      "y": 123,
+      "w": 376,
+      "h": 472,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/f21a63e7cbe1.webp",
+      "stroke": "#E3DCD1",
+      "strokeWidth": 8
+    },
+    {
+      "id": "image_slot_2_copy",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1704,
+      "y": 124,
+      "w": 376,
+      "h": 472,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/18cc8eba3f08.webp",
+      "stroke": "#E8DFD5",
+      "strokeWidth": 8
+    },
+    {
+      "id": "image_slot_2_copy_2",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1160,
+      "y": 756,
+      "w": 376,
+      "h": 472,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/0184dda19a2b.webp",
+      "stroke": "#E3D9CF",
+      "strokeWidth": 8
+    },
+    {
+      "id": "image_slot_2_copy_3",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1704,
+      "y": 757,
+      "w": 376,
+      "h": 472,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/93a04742d631.webp",
+      "stroke": "#DDD8CB",
+      "strokeWidth": 8
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "happy hearts",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 80,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 1320,
+      "y": 615,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2_copy_4",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2267,
+      "y": 124,
+      "w": 867,
+      "h": 1105,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/f21a63e7cbe1.webp",
+      "cornerRadius": 10000,
+      "stroke": "#E7DDD2",
+      "strokeWidth": 8
+    },
+    {
+      "id": "image_slot_2_copy_5",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3349,
+      "y": 124,
+      "w": 863,
+      "h": 472,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/c1524cfa12c8.webp",
+      "stroke": "#E8DFD5",
+      "strokeWidth": 8,
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.013980696798493418,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2_copy_6",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3349,
+      "y": 735,
+      "w": 863,
+      "h": 472,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "https://sishin.github.io/VEYO-CONTENT/assets/611a3ab78b96.webp",
+      "stroke": "#E8DFD5",
+      "strokeWidth": 8
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "the story continues",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 80,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 3480,
+      "y": 595,
+      "w": 600,
+      "h": 142,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 2,
+  "updatedAt": "2026-10-28T13:47:59.559Z",
+  "updatedBy": "shreyas2888@gmail.com",
+  "requires": [
+    "group",
+    "text",
+    "image",
+    "image_slot"
+  ]
+}
