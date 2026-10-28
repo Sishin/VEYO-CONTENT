@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-28T14:32:48.122Z",
+  "publishedAt": "2026-10-28T14:38:18.782Z",
   "fonts": [
     {
       "family": "AlfaSlabOne",
@@ -1978,6 +1978,376 @@
           "slotCount": 8,
           "premium": false,
           "requires": [
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_christmas_tree",
+          "title": "Christmas tree",
+          "category": "Festive, Christmas, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_christmas_tree.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v3/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_christmas_tree.v3/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 6,
+          "premium": false,
+          "requires": [
+            "group",
+            "image",
+            "image_slot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section_4",
+      "title": {
+        "en": "Stories"
+      },
+      "layout": "horizontal_carousel",
+      "rules": {
+        "platforms": [
+          "android",
+          "ios",
+          "web"
+        ],
+        "minAppVersion": "",
+        "locales": [
+          "*"
+        ],
+        "countries": [
+          "*"
+        ],
+        "startAt": null,
+        "endAt": null
+      },
+      "items": [
+        {
+          "templateId": "tpl_untitled_template_4",
+          "title": "Life story",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_4.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v3/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_4.v3/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 4,
+          "premium": false,
+          "requires": [
+            "group",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_beach_story",
+          "title": "A little june magic",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_beach_story.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_beach_story.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 4,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_27",
+          "title": "Catch us somewhere along the way",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_27.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_27.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 4,
+          "premium": false,
+          "requires": [
+            "group",
+            "shape",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_34",
+          "title": "Beach water",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_34.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_34.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 3,
+          "premium": false,
+          "requires": [
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_33",
+          "title": "Beach lady",
+          "category": "Travel, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_33.v3.json",
+          "version": 3,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v3/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v3/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v3/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_33.v3/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 2,
+          "premium": false,
+          "requires": [
+            "group",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_11",
+          "title": "Focus on me",
+          "category": "Wedding, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_11.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_11.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 1,
+          "premium": false,
+          "requires": [
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_25",
+          "title": "Happy me",
+          "category": "Lifestyle, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_25.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_25.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 2,
+          "premium": false,
+          "requires": [
+            "group",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_46",
+          "title": "Coffee comes first",
+          "category": "Lifestyle, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_46.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_46.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 4,
+          "premium": false,
+          "requires": [
+            "text",
+            "image_slot",
+            "lottie"
+          ]
+        },
+        {
+          "templateId": "tpl_halloween_dump",
+          "title": "Halloween dump",
+          "category": "Festive, Story, Halloween",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_halloween_dump.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_halloween_dump.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 6,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
+            "image",
+            "image_slot"
+          ]
+        },
+        {
+          "templateId": "tpl_untitled_template_26",
+          "title": "October nights",
+          "category": "Festive, Halloween, Story",
+          "url": "https://sishin.github.io/VEYO-CONTENT/templates/tpl_untitled_template_26.v2.json",
+          "version": 2,
+          "thumbnail": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v2/thumb_sample_frame1.webp",
+          "thumbnails": [
+            "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v2/frame_1.webp"
+          ],
+          "previewStrip": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v2/strip_sample.webp",
+          "previewStripEmpty": "https://sishin.github.io/VEYO-CONTENT/thumbs/tpl_untitled_template_26.v2/strip_empty.webp",
+          "frameCount": 1,
+          "numberOfPanels": 1,
+          "size": "stories",
+          "frameSize": {
+            "w": 1080,
+            "h": 1920
+          },
+          "gradient": [
+            "FFFFFF",
+            "FFFFFF"
+          ],
+          "slotCount": 5,
+          "premium": false,
+          "requires": [
+            "group",
+            "text",
             "image",
             "image_slot"
           ]
